@@ -1,2 +1,2 @@
-These are files done in SQl to retrive data from an already created database. Except for assigment 6 in that file a table gets created if it does not exist# SQl
-SQl databse usage
+The basic folder hold files where sql was used to retreive data from an already created database. Except from number 6 that file creates a table if it does not exist# SQl
+
